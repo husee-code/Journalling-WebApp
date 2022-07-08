@@ -1,0 +1,14 @@
+{"messages":
+	[
+		{
+			"from":"user1",
+			"text":"message1",
+			"date":"9.10.2005"
+		},
+		{
+			"from":"user2",
+			"text":"message2",
+			"date":"08.07.2022"
+		}
+	]
+}
